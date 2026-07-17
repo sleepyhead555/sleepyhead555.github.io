@@ -75,10 +75,10 @@ default_top_img:
 index_img: https://github.com/sleepyhead555/image/blob/main/blog/firefly.png?raw=true
 
 # The banner image of archive page
-archive_img:
+archive_img: https://cdn.jsdelivr.net/gh/sleepyhead555/image/blog/121112825cffd4ca7a61a13dd46044c4.jpg
 
 # Note: tag page, not tags page
-tag_img:
+tag_img: https://cdn.jsdelivr.net/gh/sleepyhead555/image/blog/121112825cffd4ca7a61a13dd46044c4.jpg
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
